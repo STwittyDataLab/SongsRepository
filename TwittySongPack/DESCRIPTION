@@ -1,0 +1,15 @@
+Package: TwittySongPack
+Type: Package
+Title: 2000 tracks
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "ShaNiece", "Twitty",
+      email = "ShaNieceLT@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
